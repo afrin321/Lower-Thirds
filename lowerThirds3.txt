@@ -1,0 +1,12 @@
+Getting familiar with Amazon Web Services Console Management,
+Creating instances, and installing applications,
+Practice Deploy a Palo Alto Network Firewall,
+VPN Client configuration and configure URL Filtering,
+Installing Comodo Dragon Platform, Endpoint Protection, and Antivirus,
+Alien Vault Security Information Event Management,
+Practice using Cloud Formation to deploy a USM Sensor,
+Installing Alien Vault Agent to forward logs to sensor,
+Security Analysis Using the Security Information Event Management,
+Attack the machines with Brute force example,
+Review the events in Alien Vault,
+Relaunch the attack and generate a report
