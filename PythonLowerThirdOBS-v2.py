@@ -103,13 +103,6 @@ class ControlGUI(Tk):
         self.lower_third_text.delete(0, END)
         
         
-                             
-        
-    def close_window(self, *args):
-        """ Closes the GUI window."""
-        del args
-        self.destroy()
-        
 
 
 class LowerThirdGUI(Tk):
